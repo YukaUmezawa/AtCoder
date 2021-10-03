@@ -1,0 +1,5 @@
+NUM=input()
+A=int(NUM[0])
+B=int(NUM[1])
+C=int(NUM[2])
+D=int(NUM[3])
